@@ -1,3 +1,2 @@
-# CoreAudioTest
-# CoreAudioTest를 위한 Git
-CoreAudioTest - 16/01/11 Ohsw Description
+# CoreAudio Sample Project
+CoreAudio 관련 샘플 프로젝트 업로드 (공식 오픈 소스 및 개인 프로젝트 업로드.)
